@@ -1,8 +1,8 @@
 :root{
-    --fondoPrincipal: #1F0F10;
-    --fondoGenerador: #450B0A;
-    --boton: #FF0000;
-    --borderBoton: #950101;
+    --fondoPrincipal: #212832;
+    --fondoGenerador: #fd7014;
+    --boton: #fd7014;
+    --borderBoton: #b35a1f;
     --texto: #ffffff;
 }
 html{
@@ -48,6 +48,7 @@ i{
     background-color: var(--fondoGenerador);
     border-radius: 1.5rem;
     padding: 2rem;
+    height: 20rem;
 }
 input{
     border: none;
